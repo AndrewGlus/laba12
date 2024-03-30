@@ -45,6 +45,7 @@ public class Tester {
         System.out.println(r.nextDouble());
         //
        //
+       //
 
     }
 }
