@@ -44,5 +44,6 @@ public class Tester {
         System.out.println("random number");
         System.out.println(r.nextDouble());
         //
+       //
     }
 }
